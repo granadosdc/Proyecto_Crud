@@ -1,0 +1,26 @@
+
+.accordion-body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgba(233, 136, 136, 0.473);
+    width: 100%;
+}
+.accordion-header{
+    width: 100%;
+    background-color: rgba(118, 201, 240, 0.452);
+  
+}
+.accordion{
+    padding-top: 50px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+    content:"\f068";
+    line-height: 30px;
+    margin: 0px 10px 0px 30px;
+}
+.breadcrumb{
+    display:inline-block;
+    background-color:blue;
+    margin: 0px 10px 0px 30px;
+    padding-top: 50px;
+    font-size: 20px;
+    
+}
